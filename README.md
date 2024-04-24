@@ -7,6 +7,8 @@ con la participación de Diana Sánchez y José Cerón.
 
 :movie_camera:    Radio UAM, Unidad Iztapalapa  
 
+:hourglass:       30 min.
+
 :link:            TBA []
 
 -----
