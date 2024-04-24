@@ -11,8 +11,7 @@ con la participación de Diana Sánchez y José Cerón.
 
 -----
 
-Repositorio del episodio "Metodologías para el análisis de fenómenos mediados por la tecnología. Perspectivas y ética en la investigación social." episodio final de la tercera temporada del videopodcast CS50: Innovación en tiempos de cambio.
-by Amelia McNamara and Hadley Wickham
+Repositorio del episodio "Metodologías para el análisis de fenómenos mediados por la tecnología. Perspectivas y ética en la investigación social." episodio final de la tercera temporada del videopodcast *CS50: Innovación en tiempos de cambio* del departamento de Sociología de la Universidad Autónoma Metropolitana, Unidad Iztapalapa.
 
 
 ## Overview
