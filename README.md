@@ -13,18 +13,14 @@ con la participación de Diana Sánchez y José Cerón.
 
 -----
 
-Repositorio del episodio "Metodologías para el análisis de fenómenos mediados por la tecnología. Perspectivas y ética en la investigación social." episodio final de la tercera temporada del videopodcast *CS50: Innovación en tiempos de cambio* del departamento de Sociología de la Universidad Autónoma Metropolitana, Unidad Iztapalapa.
+Repositorio del episodio "Metodologías para el análisis de fenómenos mediados por la tecnología. Perspectivas y ética en la investigación social". Última entrega de la tercera temporada del videopodcast *CS50: Innovación en tiempos de cambio* del departamento de Sociología de la Universidad Autónoma Metropolitana, Unidad Iztapalapa.
 
 
-## Overview
+## Descripción
 
-This is a two-day, hands-on workshop designed for people who are brand new to R & RStudio and who learn best in person. 
+Este es un episodio de media hora donde se discute cómo aproximarse a objetos de estudio que estan mediados por la tecnología o que ocurren en el mundo digital principalemnte. De igual forma, se discute la importancia de guiarse con los códigos de ética vigentes al realizar investigaciones.
 
-You will learn the basics of R and data science, and practice using the RStudio IDE (integrated development environment). We'll discuss much of the material from the book R for Data Science, including data visualization (ggplot2), data transformation and tidying (dplyr, tidyr), understanding special data types (stringr, forcats, lubridate), and modeling (broom). Throughout the workshop, we'll work in RMarkdown documents, and learn best practices for data computing.
-
-If you want to transition from coding in base R to the tidyverse, or just jump into doing data science in the tidyverse without any prior R experience, this is the workshop for you! We will have a team of TAs on hand to show you the ropes, and help you out when you get stuck.
-
-# Textos mencionados durante el videopodcast
+# Textos mencionados durante el episodio
 Los textos de los que se habla en el episodio son los siguientes:
 
 - Cerón, J. (2023). El show (nocturno) de Truman: Noctis y trabajo no clásico en lives de TikTok en *Del crepúsculo al anochecer: Juventudes a través del trabajo, violencias y sus espacios* Becerra, J.C y Salinas,R.J. (coords). UAQ-Gedisa. Pp. 137-161.
