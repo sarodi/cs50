@@ -17,3 +17,7 @@ https://www.youtube.com/@rladiesmexico 
 # Paquete para utilizar metodología Q e identificar perspectivas dentro de un grupo
 
     {qmethodology} de Aiora Zabala https://aiorazabala.github.io/qmethod/GUI 
+
+# Código de ética de la Universidad Autónoma Metropolitana (UAM)
+El código de ética de la UAM se publicó el 09 de enero de 2023 y señala los quince principios rectores y valores que se deben incorporar en el desarrollo
+de actividades académicas. Consulta el documento en este link https://investigacion.uam.mx/pdf/Cod_etica_UAM.pdf
